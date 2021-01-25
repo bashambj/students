@@ -1,0 +1,15 @@
+{
+  "emoji": ":bowtie:",
+  "role": "Student",
+  "introduction": "I can't wait to work with everyone and learn more about Java!",
+  "achievements": [
+      "?I recently got a promotion at my job!",
+      "I was on the Dean's list last semester and hope to do it again this semester."
+  ],
+  "links": {
+      "site": "LINK_TO_YOUR_WEBSITE",
+      "linkedin": "https://www.linkedin.com/in/bashambrady/E",
+      "facebook": "https://www.facebook.com/brady.basham",
+      "twitter": "N/A",
+  }
+}
